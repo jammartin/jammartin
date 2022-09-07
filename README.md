@@ -1,10 +1,10 @@
---
+------
 <div align="center">
-<h1>Johannes Martin</h1> 
-<p>:de::computer:::newspaper::seedling::evergreen_tree::earth_africa::ocean::guitar::bread::bike::tram:</p>
+<h3>Johannes Martin</h3> 
+<p>:de: :computer: :newspaper: :seedling: :evergreen_tree: :earth_africa: :ocean: :guitar: :bread: :bike: :tram:</p>
 </div>
 
---
+------
 
 <!--
 </div>
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" align="center" height="24"/>&nbsp;&nbsp;
 </div>
 
---
+------
 
 
 
