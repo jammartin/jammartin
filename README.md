@@ -29,6 +29,8 @@
 <h4>Spent too much time with</h4>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" align="center" height="24"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" align="center" height="24"/>&nbsp;&nbsp;
+<h4>Learning</h4>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="C" align="center" height="24"/>&nbsp;&nbsp;
 </div>
 
 ------
